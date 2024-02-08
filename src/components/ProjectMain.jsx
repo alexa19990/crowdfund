@@ -1,13 +1,6 @@
 export default function ProjectMain({ setModalOpen }) {
   return (
     <section className="project-main">
-      <div className="img-container">
-        <img
-          src="/assets/logo-mastercraft.svg"
-          alt="Mastercraft logo"
-          className="mastercraft-logo"
-        />
-      </div>
       <div className="project-main_main-text">
         <h1>Mastercraft Bamboo Monitor Riser</h1>
         <p className="subtitle">
